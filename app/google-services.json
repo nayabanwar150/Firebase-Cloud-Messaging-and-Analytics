@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383835445253",
+    "project_id": "fcm-and-analytics-48955",
+    "storage_bucket": "fcm-and-analytics-48955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383835445253:android:87164f1cea2a63cd3d246c",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmessagingandanalytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383835445253-9pi42079nhvo9r59rqkr75juo23tegi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJy-iUk_oAgGa_d7GTXwmDDaeS-iqOQTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383835445253-9pi42079nhvo9r59rqkr75juo23tegi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
